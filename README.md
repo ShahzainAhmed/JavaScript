@@ -8,3 +8,6 @@
 
 ## Button
 * Added a button with built-in functionality of displaying output using alert
+
+## Changing Text
+* Changed the text using a button with function
