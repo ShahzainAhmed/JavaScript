@@ -35,7 +35,7 @@ Shift + Alt + F
 
 ## JavaScript Essentials
 ### Introduction to JavaScript
-Difference between alert and document.write \
+**Difference between alert and document.write** \
 **Code:** alert("Shahzain Ahmed"); and document.write("Shahzain Ahmed"); \
 **alert:** it will show output as a popup. \
 **document.write:** it will show output as normal text. \
