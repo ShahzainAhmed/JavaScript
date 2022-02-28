@@ -9,5 +9,5 @@
 ## Button
 * Added a button with built-in functionality of displaying output using alert
 
-## Changing Text
+## Changing Text using a function
 * Changed the text using a button with function
