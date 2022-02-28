@@ -11,3 +11,6 @@
 
 ## Changed Text using a function
 * Changed the text using a button with function
+
+## Auto formatting in VSC Code:
+Shift + Alt + F
