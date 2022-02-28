@@ -34,5 +34,9 @@ Shift + Alt + F
 * Simple Selectors
 
 ## JavaScript Essentials
-* Introduction to JavaScript
-* 
+### Introduction to JavaScript
+Difference between alert and document.write \
+**Code:** alert("Shahzain Ahmed"); and document.write("Shahzain Ahmed"); \
+**alert:** it will show output as a popup. \
+**document.write:** it will show output as normal text. \
+
