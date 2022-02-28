@@ -32,3 +32,7 @@ Shift + Alt + F
 * CSS Introduction
 * CSS Resources
 * Simple Selectors
+
+## JavaScript Essentials
+* Introduction to JavaScript
+* 
