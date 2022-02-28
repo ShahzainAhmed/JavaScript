@@ -1,0 +1,19 @@
+/* ID has higher priority than classes */
+/* To write ID, start with # 
+To write Class, start with (.) dot */
+
+h1 {
+    color: darkcyan;
+}
+
+.heading1 {
+    color: chocolate;
+}
+
+#text1{
+    color: blue;
+}
+
+.heading2 {
+    color: yellow;
+}
