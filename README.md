@@ -45,5 +45,5 @@ Shift + Alt + F
 * Comparison operators: Assignment = | Equality == | Strict Equality === | Greater > | Less < | Greater and equals to >= | Less and equals to <= | Not equals to !=
 * Logical operators: AND operator && | OR operator ||
 * Increment and Decrement operators: Increment a++ | Decrement a-- 
-* Prefix and Postfix: ++a | a++
+* Prefix and Postfix: Preincrement ++a | Postincrement a++ | Predecrement --a | Postdecrement a--
 * 
