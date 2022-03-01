@@ -38,4 +38,4 @@ Shift + Alt + F
 * alert: it will show output as a pop-up. 
 * document.write: it will show output as normal text. 
 * Variables
-* Data Types: 3 primitive data types -> Numbers, Strings, and Booleans (any expression (except zero) is True).
+* Data Types: 3 primitive data types -> Numbers, Strings, and Booleans (any expression (except zero) is True) (1 = True, 0 = False).
