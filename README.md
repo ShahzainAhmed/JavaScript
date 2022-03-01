@@ -46,4 +46,4 @@ Shift + Alt + F
 * Logical operators: AND operator && | OR operator ||
 * Increment and Decrement operators: Increment a++ | Decrement a-- 
 * Prefix and Postfix: Preincrement ++a | Postincrement a++ | Predecrement --a | Postdecrement a--
-* 
+* Switch:
