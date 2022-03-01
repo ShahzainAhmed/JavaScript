@@ -39,4 +39,4 @@ Shift + Alt + F
 * document.write: it will show output as normal text. 
 * Variables.
 * Data Types: 3 primitive data types -> Numbers, Strings, and Booleans (any expression (except zero) is True) (1 = True, 0 = False).
-* Operators: + - * /
+* Operators: Arithmetic operators (+ - * /), Comparison operators (Assignment =, Equality ==, Strict Equality ===),
