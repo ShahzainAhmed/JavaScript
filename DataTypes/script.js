@@ -11,5 +11,8 @@ if (result == 86) {
     document.write("Shahzain is not verified.");
 }
 
+document.write("<br>");
+document.write("<br>");
 document.write(" " + Boolean(c));
+document.write("<br>");
 document.write(" " + Boolean(a));
