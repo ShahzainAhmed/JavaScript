@@ -11,5 +11,11 @@ if (result == 86) {
     document.write("Shahzain is not verified.");
 }
 
+document.write("<br>"); // this will break the line
+document.write("<br>"); // this will break the line
+
 document.write(" " + Boolean(c));
+
+document.write("<br>");  // this will break the line
+
 document.write(" " + Boolean(a));
