@@ -39,8 +39,9 @@ Shift + Alt + F
 * document.write: it will show output as normal text. 
 * Variables.
 * Data Types: 3 primitive data types -> Numbers, Strings, and Booleans (any expression (except zero) is True) (1 = True, 0 = False).
+* Short hand: a += 86 | a -= 86 | a *= 86 | a /= 86 
 * Operators: 
 * Arithmetic operators: + - * / 
 * Comparison operators: Assignment = | Equality == | Strict Equality === | Greater > | Less < | Greater and equals to >= | Less and equals to <= | Not equals to !=
 * Logical operators: AND operator && | OR operator ||
-* Increment and Decrement operators: 
+* Increment and Decrement operators: Increment ++ | Decrement -- 
