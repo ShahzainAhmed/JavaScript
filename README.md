@@ -48,3 +48,4 @@ Shift + Alt + F
 * Prefix and Postfix: Preincrement ++a | Postincrement a++ | Predecrement --a | Postdecrement a--
 * Switch Statement: cases | break | default
 * Loops: While Loop | Do While Loop | For Loop | For in Loop 
+* Functions
