@@ -47,4 +47,5 @@ Shift + Alt + F
 * Increment and Decrement operators: Increment a++ | Decrement a-- 
 * Prefix and Postfix: Preincrement ++a | Postincrement a++ | Predecrement --a | Postdecrement a--
 * Switch Statement: cases | break | default
-* Loops: While loop | 
+* Loops: While Loop | Do While Loop | For Loop | For in Loop 
+* Functions
