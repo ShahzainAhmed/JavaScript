@@ -4,8 +4,8 @@
 # Course 1 - 1 Hour JavaScript
 ## Day 1 - (27th February, 2022)
 ## Linking style.css & main.js with HTML
-* CSS: <link rel="stylesheet" href="style.css"
-* JavaScript: <script src="main.js"></script>
+* CSS: `<link rel="stylesheet" href="style.css">`
+* JavaScript: `<script src="main.js"></script>`
 
 ## Button
 * Added a button with built-in functionality of displaying output using alert
@@ -48,4 +48,9 @@ Shift + Alt + F
 * Prefix and Postfix: Preincrement ++a | Postincrement a++ | Predecrement --a | Postdecrement a--
 * Switch Statement: cases | break | default
 * Loops: While Loop | Do While Loop | For Loop | For in Loop 
-* Functions
+* Functions: 
+```
+function myFunction() {
+alert("I am Shahzain Ahmed");
+}
+```
